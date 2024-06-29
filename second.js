@@ -1,4 +1,8 @@
-// 配列を用意
+/**
+ * 実行結果
+ * forEach with map and filter: 22.261ms
+ * for...of with continue: 13.72ms
+ */
 const array = Array.from({ length: 1000000 }, (_, i) => i + 1);
 
 const second = () => {
