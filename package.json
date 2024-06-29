@@ -1,5 +1,6 @@
 {
   "name": "biome-noforeach",
+  "description": "understand why biome recommends for...of in the code base.",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,6 +8,9 @@
   },
   "author": "yossydev",
   "license": "MIT",
-  "description": "",
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yossydev/biome-noForEach"
+  }
 }
